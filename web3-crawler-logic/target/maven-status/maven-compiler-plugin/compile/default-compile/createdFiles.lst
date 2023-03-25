@@ -1,0 +1,7 @@
+cn\com\web3\logic\dao\SheinCookieRepository.class
+cn\com\web3\logic\dao\EthChainRepository.class
+cn\com\web3\logic\logic\SheinCrawlerLogic.class
+cn\com\web3\logic\entity\SheinCookieConfig.class
+cn\com\web3\logic\entity\EthChainConfig.class
+cn\com\web3\logic\config\ValueConfig.class
+cn\com\web3\logic\config\ScheduleConfig.class
